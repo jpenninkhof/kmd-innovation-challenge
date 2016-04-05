@@ -4,7 +4,7 @@ Now more than ever, developers need the right platform to quickly extend, build 
 
 With comprehensive services and capabilities, the world's best developers depend on SAP HANA Cloud Platform to build better apps in less time.
 
-<!-- .slide: data-state="darker7" data-background="http://www.industryconnect.co.nz/wp-content/uploads/2015/10/software-developer.jpg" -->
+<!-- .slide: data-state="darker5" data-background="http://www.industryconnect.co.nz/wp-content/uploads/2015/10/software-developer.jpg" -->
 
 
 
