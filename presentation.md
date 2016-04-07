@@ -16,7 +16,7 @@ No need to use marketing talk on me...
 Tell me what it is and how I can use it to win!<br/>
 ###Now!
 
-<!-- .slide: data-state="darker3" data-background="http://www.craveonline.com/images/stories/2011/2012/May/Lifestyle/infomercials-cheesy.jpg" -->
+<!-- .slide: data-state="darker3" data-background="images/bg-marketing.jpg" -->
 
 
 
@@ -24,7 +24,7 @@ Tell me what it is and how I can use it to win!<br/>
 
 <img data-src="images/bento.jpg" width="70%">
 
-<!-- .slide: data-state="darker8" data-background="http://weknowyourdreamz.com/images/cloud/cloud-05.jpg" -->
+<!-- .slide: data-state="darker8" data-background="images/bg-cloud.jpg" -->
 
 
 # Data & Storage
