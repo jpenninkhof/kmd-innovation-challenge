@@ -20,11 +20,11 @@ Tell me what it is and how I can use it to win!<br/>
 
 
 
-# SAP HANA Cloud Platform for developers
+# SAP HANA Cloud Platform for Hackathons
 
-<img data-src="images/bento.jpg" width="70%">
+<img data-src="images/bento.jpg" width="65%">
 
-<!-- .slide: data-state="darker8" data-background="images/bg-cloud.jpg" -->
+<!-- .slide: data-background-video="images/bg-cloud.mp4,images/bg-cloud.webm" data-background-video-loop="loop" -->
 
 
 
@@ -108,4 +108,4 @@ Mobilink
 1. Create trial account
 1. Login
 
-<!-- .slide: data-state="darker1" data-background="images/bg-hanatrial.png" -->
+<!-- .slide: data-state="darker2" data-background="images/bg-hanatrial.png" -->
