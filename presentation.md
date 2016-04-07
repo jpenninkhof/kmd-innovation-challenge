@@ -21,6 +21,7 @@ Wait! I'm going to use it this afternoon already. No need to use marketing talk 
 1. Persistence Service (HANA)
 1. Persistence Service (ASE)
 1. Document Service
+
 <!-- .slide: data-state="darker2" data-background="images/bg-memory.jpg" -->
 
 
@@ -28,6 +29,7 @@ Wait! I'm going to use it this afternoon already. No need to use marketing talk 
 # Connectivity
 
 SAP HANA Cloud Connector
+
 <!-- .slide: data-state="darker3" data-background="images/bg-tunnel.jpg" -->
 
 
@@ -37,6 +39,7 @@ SAP HANA Cloud Connector
 1. SAPUI5 ( + SAP WebIDE )
 1. SAP Fiori Cloud Edition
 1. SAP HANA Cloud Portal
+
 <!-- .slide: data-state="darker6" data-background="images/bg-ux.jpg" -->
 
 
@@ -45,6 +48,7 @@ SAP HANA Cloud Connector
 1. Package UI5 apps
 1. Sync data to offline Storage
 1. Notification service
+
 <!-- .slide: data-state="darker4" data-background="images/bg-mobile.jpg" -->
 
 
@@ -54,6 +58,7 @@ SAP HANA Cloud Connector
 1. SAP Jam
 1. Gamification Service
 1. Mobile Documents
+
 <!-- .slide: data-state="darker2" data-background="images/bg-collaboration.jpg" -->
 
 
@@ -62,6 +67,7 @@ SAP HANA Cloud Connector
 
 1. Cloud Identity
 1. External SAML Identity Provider (MemID?)
+
 <!-- .slide: data-state="darker5" data-background="images/bg-security.jpg" -->
 
 
@@ -69,6 +75,7 @@ SAP HANA Cloud Connector
 # Internet of Things
 
 SAP HANA Cloud Platform IoT services
+
 <!-- .slide: data-state="darker3" data-background="images/bg-iot.png" -->
 
 
@@ -77,6 +84,7 @@ SAP HANA Cloud Platform IoT services
 
 1. HANA advanced analytics. E.g. Predictive, Geospatial, Text and Series data analytics
 1. Runtimes: Java, HANA XS and HTML5
+
 <!-- .slide: data-state="darker3" data-background="images/bg-geospatial.jpg" -->
 
 
@@ -86,4 +94,5 @@ SAP HANA Cloud Platform IoT services
 1. Go to http://hanatrial.ondemand.com
 1. Create trial account
 1. Login
+
 <!-- .slide: data-state="darker1" data-background="images/bg-hanatrial.png" -->
