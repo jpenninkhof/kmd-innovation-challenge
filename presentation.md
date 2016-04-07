@@ -10,10 +10,21 @@ With comprehensive services and capabilities, the world's best developers depend
 
 # More details please...
 
-Wait! I'm going to use it this afternoon already. No need to use marketing talk on me! Tell me what it is! Now!
+Wait! I'm in a hurry for a challenge.<br />
+No need to use marketing talk on me...
 
-<img data-src="images/bento.jpg" width="50%">
+Tell me what it is and how I can use it to win!<br/>
+###Now!
 
+<!-- .slide: data-state="darker3" data-background="http://www.craveonline.com/images/stories/2011/2012/May/Lifestyle/infomercials-cheesy.jpg" -->
+
+
+
+# SAP HANA Cloud Platform for developers
+
+<img data-src="images/bento.jpg" width="70%">
+
+<!-- .slide: data-state="darker8" data-background="http://weknowyourdreamz.com/images/cloud/cloud-05.jpg" -->
 
 
 # Data & Storage
@@ -59,7 +70,7 @@ SAP HANA Cloud Connector
 1. Gamification Service
 1. Mobile Documents
 
-<!-- .slide: data-state="darker2" data-background="images/bg-collaboration.jpg" -->
+<!-- .slide: data-state="darker3" data-background="images/bg-collaboration.jpg" -->
 
 
 
@@ -75,6 +86,7 @@ SAP HANA Cloud Connector
 # Internet of Things
 
 SAP HANA Cloud Platform IoT services
+Mobilink
 
 <!-- .slide: data-state="darker3" data-background="images/bg-iot.png" -->
 
