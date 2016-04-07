@@ -27,6 +27,7 @@ Tell me what it is and how I can use it to win!<br/>
 <!-- .slide: data-state="darker8" data-background="images/bg-cloud.jpg" -->
 
 
+
 # Data & Storage
 
 1. Persistence Service (HANA)
